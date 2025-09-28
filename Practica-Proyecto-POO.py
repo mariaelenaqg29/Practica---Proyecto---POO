@@ -16,7 +16,7 @@ class Serie:
         print(self.lista)
 
 while True:
-    n = int(input("INGRESE EL NÚMERO DE TÉRMINOS: "))
+    n = int(input("INGRESAR EL NÚMERO DE TÉRMINOS : "))
     if n >= 1:
         break
 
