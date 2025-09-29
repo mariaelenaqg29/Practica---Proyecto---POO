@@ -24,4 +24,6 @@ serie = Serie(n)
 serie.generar()   
 serie.mostrar() 
 
-#Parrafo de texto para ejemplo 
+
+#Párrafo de texto para ejemplo de conflicto entre ramas...
+
