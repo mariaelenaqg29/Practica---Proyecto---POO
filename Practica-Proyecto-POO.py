@@ -22,4 +22,6 @@ while True:
 
 serie = Serie(n)  
 serie.generar()   
-serie.mostrar()    
+serie.mostrar() 
+
+#Parrafo de texto para ejemplo 
