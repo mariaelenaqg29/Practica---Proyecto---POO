@@ -23,3 +23,5 @@ while True:
 serie = Serie(n)  
 serie.generar()   
 serie.mostrar()    
+
+#Párrafo de texto para ejemplo de conflicto entre ramas...
